@@ -14,15 +14,15 @@ VITE_TMDB_KEY=...YOUR TMDB KEY....
 + Create a new public repository in your GitHub account called 'reactExam'.
 + In VS Code terminal, type the following commands:
 ```cmd
-$ git remote remove origin
-$ git remote add origin ...URL of your new repository...
-$ git push origin main
+git remote remove origin
+git remote add origin ...URL of your new repository...
+git push origin main
 ```
 
  + Run the following commands:
 ```cmd
-$ npm install
-$ npm run dev
+npm install
+npm run dev
 ```
 
 Now check that the Movie App runs correctly and is accessible from a browser on your machine.  
