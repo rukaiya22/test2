@@ -11,7 +11,7 @@ This repository contains the starting code for a lab-based exam for React app de
 VITE_TMDB_KEY=...YOUR TMDB KEY....
 ~~~
 
-+ Create a new public repository in your GitHub account called 'reactExam'.
++ Create a new **private** repository in your GitHub account called '**reactExam**'.
 + In VS Code terminal, type the following commands:
 ```cmd
 git remote remove origin
